@@ -1,0 +1,3 @@
+function PageB() {
+  return <p>PAgeB</p>;
+}
